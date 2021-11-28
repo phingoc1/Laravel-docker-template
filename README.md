@@ -1,3 +1,5 @@
+- Containing nginx server, mysql, php, redis, composer, npm, artisan, phpmyadmin, queue worker, cron.  
+
 - Start docker: docker-compose up -d --build site
 - Composer: docker-compose run --rm composer update
 - NPM: docker-compose run --rm npm run dev
